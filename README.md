@@ -1,7 +1,7 @@
 # Global SuperStore Analysis
 
-### Dashboard Link :C:\
-
+### Dashboard Link : https://github.com/emadfayed011190/Global-SuperStore-Analysis/blob/main/Global%20SuperStore1.pbix
+### snaps link : https://github.com/emadfayed011190/Global-SuperStore-Analysis/commit/6a93bb7790ee50d83691514fccc53555a8367966
 
 ## 1. Introduction
 
